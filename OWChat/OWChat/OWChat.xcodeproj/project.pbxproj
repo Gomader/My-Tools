@@ -1,0 +1,590 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8864F6D92679D39300CA3B31 /* OWChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8864F6D82679D39300CA3B31 /* OWChatApp.swift */; };
+		8864F6DB2679D39300CA3B31 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8864F6DA2679D39300CA3B31 /* ContentView.swift */; };
+		8864F6DD2679D39400CA3B31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8864F6DC2679D39400CA3B31 /* Assets.xcassets */; };
+		8864F6E02679D39400CA3B31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8864F6DF2679D39400CA3B31 /* Preview Assets.xcassets */; };
+		8864F6EC2679D39400CA3B31 /* OWChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8864F6EB2679D39400CA3B31 /* OWChatTests.swift */; };
+		8864F6F72679D39400CA3B31 /* OWChatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8864F6F62679D39400CA3B31 /* OWChatUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8864F6E82679D39400CA3B31 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8864F6CD2679D39300CA3B31 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8864F6D42679D39300CA3B31;
+			remoteInfo = OWChat;
+		};
+		8864F6F32679D39400CA3B31 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8864F6CD2679D39300CA3B31 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8864F6D42679D39300CA3B31;
+			remoteInfo = OWChat;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8864F6D52679D39300CA3B31 /* OWChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OWChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8864F6D82679D39300CA3B31 /* OWChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OWChatApp.swift; sourceTree = "<group>"; };
+		8864F6DA2679D39300CA3B31 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8864F6DC2679D39400CA3B31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8864F6DF2679D39400CA3B31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8864F6E12679D39400CA3B31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8864F6E22679D39400CA3B31 /* OWChat.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OWChat.entitlements; sourceTree = "<group>"; };
+		8864F6E72679D39400CA3B31 /* OWChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OWChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8864F6EB2679D39400CA3B31 /* OWChatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OWChatTests.swift; sourceTree = "<group>"; };
+		8864F6ED2679D39400CA3B31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8864F6F22679D39400CA3B31 /* OWChatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OWChatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8864F6F62679D39400CA3B31 /* OWChatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OWChatUITests.swift; sourceTree = "<group>"; };
+		8864F6F82679D39400CA3B31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8864F6D22679D39300CA3B31 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8864F6E42679D39400CA3B31 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8864F6EF2679D39400CA3B31 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8864F6CC2679D39300CA3B31 = {
+			isa = PBXGroup;
+			children = (
+				8864F6D72679D39300CA3B31 /* OWChat */,
+				8864F6EA2679D39400CA3B31 /* OWChatTests */,
+				8864F6F52679D39400CA3B31 /* OWChatUITests */,
+				8864F6D62679D39300CA3B31 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8864F6D62679D39300CA3B31 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8864F6D52679D39300CA3B31 /* OWChat.app */,
+				8864F6E72679D39400CA3B31 /* OWChatTests.xctest */,
+				8864F6F22679D39400CA3B31 /* OWChatUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8864F6D72679D39300CA3B31 /* OWChat */ = {
+			isa = PBXGroup;
+			children = (
+				8864F6D82679D39300CA3B31 /* OWChatApp.swift */,
+				8864F6DA2679D39300CA3B31 /* ContentView.swift */,
+				8864F6DC2679D39400CA3B31 /* Assets.xcassets */,
+				8864F6E12679D39400CA3B31 /* Info.plist */,
+				8864F6E22679D39400CA3B31 /* OWChat.entitlements */,
+				8864F6DE2679D39400CA3B31 /* Preview Content */,
+			);
+			path = OWChat;
+			sourceTree = "<group>";
+		};
+		8864F6DE2679D39400CA3B31 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8864F6DF2679D39400CA3B31 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8864F6EA2679D39400CA3B31 /* OWChatTests */ = {
+			isa = PBXGroup;
+			children = (
+				8864F6EB2679D39400CA3B31 /* OWChatTests.swift */,
+				8864F6ED2679D39400CA3B31 /* Info.plist */,
+			);
+			path = OWChatTests;
+			sourceTree = "<group>";
+		};
+		8864F6F52679D39400CA3B31 /* OWChatUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8864F6F62679D39400CA3B31 /* OWChatUITests.swift */,
+				8864F6F82679D39400CA3B31 /* Info.plist */,
+			);
+			path = OWChatUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8864F6D42679D39300CA3B31 /* OWChat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8864F6FB2679D39400CA3B31 /* Build configuration list for PBXNativeTarget "OWChat" */;
+			buildPhases = (
+				8864F6D12679D39300CA3B31 /* Sources */,
+				8864F6D22679D39300CA3B31 /* Frameworks */,
+				8864F6D32679D39300CA3B31 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OWChat;
+			productName = OWChat;
+			productReference = 8864F6D52679D39300CA3B31 /* OWChat.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8864F6E62679D39400CA3B31 /* OWChatTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8864F6FE2679D39400CA3B31 /* Build configuration list for PBXNativeTarget "OWChatTests" */;
+			buildPhases = (
+				8864F6E32679D39400CA3B31 /* Sources */,
+				8864F6E42679D39400CA3B31 /* Frameworks */,
+				8864F6E52679D39400CA3B31 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8864F6E92679D39400CA3B31 /* PBXTargetDependency */,
+			);
+			name = OWChatTests;
+			productName = OWChatTests;
+			productReference = 8864F6E72679D39400CA3B31 /* OWChatTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8864F6F12679D39400CA3B31 /* OWChatUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8864F7012679D39400CA3B31 /* Build configuration list for PBXNativeTarget "OWChatUITests" */;
+			buildPhases = (
+				8864F6EE2679D39400CA3B31 /* Sources */,
+				8864F6EF2679D39400CA3B31 /* Frameworks */,
+				8864F6F02679D39400CA3B31 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8864F6F42679D39400CA3B31 /* PBXTargetDependency */,
+			);
+			name = OWChatUITests;
+			productName = OWChatUITests;
+			productReference = 8864F6F22679D39400CA3B31 /* OWChatUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8864F6CD2679D39300CA3B31 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					8864F6D42679D39300CA3B31 = {
+						CreatedOnToolsVersion = 12.5;
+					};
+					8864F6E62679D39400CA3B31 = {
+						CreatedOnToolsVersion = 12.5;
+						TestTargetID = 8864F6D42679D39300CA3B31;
+					};
+					8864F6F12679D39400CA3B31 = {
+						CreatedOnToolsVersion = 12.5;
+						TestTargetID = 8864F6D42679D39300CA3B31;
+					};
+				};
+			};
+			buildConfigurationList = 8864F6D02679D39300CA3B31 /* Build configuration list for PBXProject "OWChat" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8864F6CC2679D39300CA3B31;
+			productRefGroup = 8864F6D62679D39300CA3B31 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8864F6D42679D39300CA3B31 /* OWChat */,
+				8864F6E62679D39400CA3B31 /* OWChatTests */,
+				8864F6F12679D39400CA3B31 /* OWChatUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8864F6D32679D39300CA3B31 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8864F6E02679D39400CA3B31 /* Preview Assets.xcassets in Resources */,
+				8864F6DD2679D39400CA3B31 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8864F6E52679D39400CA3B31 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8864F6F02679D39400CA3B31 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8864F6D12679D39300CA3B31 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8864F6DB2679D39300CA3B31 /* ContentView.swift in Sources */,
+				8864F6D92679D39300CA3B31 /* OWChatApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8864F6E32679D39400CA3B31 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8864F6EC2679D39400CA3B31 /* OWChatTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8864F6EE2679D39400CA3B31 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8864F6F72679D39400CA3B31 /* OWChatUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8864F6E92679D39400CA3B31 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8864F6D42679D39300CA3B31 /* OWChat */;
+			targetProxy = 8864F6E82679D39400CA3B31 /* PBXContainerItemProxy */;
+		};
+		8864F6F42679D39400CA3B31 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8864F6D42679D39300CA3B31 /* OWChat */;
+			targetProxy = 8864F6F32679D39400CA3B31 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		8864F6F92679D39400CA3B31 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8864F6FA2679D39400CA3B31 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		8864F6FC2679D39400CA3B31 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = OWChat/OWChat.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_ASSET_PATHS = "\"OWChat/Preview Content\"";
+				DEVELOPMENT_TEAM = X9KBZSF3C4;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = OWChat/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Gomader.OWChat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		8864F6FD2679D39400CA3B31 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = OWChat/OWChat.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_ASSET_PATHS = "\"OWChat/Preview Content\"";
+				DEVELOPMENT_TEAM = X9KBZSF3C4;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = OWChat/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Gomader.OWChat;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		8864F6FF2679D39400CA3B31 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = X9KBZSF3C4;
+				INFOPLIST_FILE = OWChatTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Gomader.OWChatTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OWChat.app/Contents/MacOS/OWChat";
+			};
+			name = Debug;
+		};
+		8864F7002679D39400CA3B31 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = X9KBZSF3C4;
+				INFOPLIST_FILE = OWChatTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Gomader.OWChatTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OWChat.app/Contents/MacOS/OWChat";
+			};
+			name = Release;
+		};
+		8864F7022679D39400CA3B31 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = X9KBZSF3C4;
+				INFOPLIST_FILE = OWChatUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Gomader.OWChatUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = OWChat;
+			};
+			name = Debug;
+		};
+		8864F7032679D39400CA3B31 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = X9KBZSF3C4;
+				INFOPLIST_FILE = OWChatUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Gomader.OWChatUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = OWChat;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8864F6D02679D39300CA3B31 /* Build configuration list for PBXProject "OWChat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8864F6F92679D39400CA3B31 /* Debug */,
+				8864F6FA2679D39400CA3B31 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8864F6FB2679D39400CA3B31 /* Build configuration list for PBXNativeTarget "OWChat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8864F6FC2679D39400CA3B31 /* Debug */,
+				8864F6FD2679D39400CA3B31 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8864F6FE2679D39400CA3B31 /* Build configuration list for PBXNativeTarget "OWChatTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8864F6FF2679D39400CA3B31 /* Debug */,
+				8864F7002679D39400CA3B31 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8864F7012679D39400CA3B31 /* Build configuration list for PBXNativeTarget "OWChatUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8864F7022679D39400CA3B31 /* Debug */,
+				8864F7032679D39400CA3B31 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8864F6CD2679D39300CA3B31 /* Project object */;
+}
