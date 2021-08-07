@@ -1,0 +1,2 @@
+# screen_video_captions_translator
+视频时时翻译软件

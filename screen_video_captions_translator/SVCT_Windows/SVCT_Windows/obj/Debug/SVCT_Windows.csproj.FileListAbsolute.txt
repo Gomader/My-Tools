@@ -1,0 +1,14 @@
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\bin\Debug\SVCT_Windows.exe.config
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\bin\Debug\SVCT_Windows.exe
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\bin\Debug\SVCT_Windows.pdb
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\bin\Debug\CSCore.dll
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\bin\Debug\CSCore.xml
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.csprojAssemblyReference.cache
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.Form_Main.resources
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.Properties.Resources.resources
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.csproj.GenerateResource.cache
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.csproj.CoreCompileInputs.cache
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.csproj.CopyComplete
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.exe
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.pdb
+D:\screen_video_captions_translator\SVCT_Windows\SVCT_Windows\obj\Debug\SVCT_Windows.caption.resources
