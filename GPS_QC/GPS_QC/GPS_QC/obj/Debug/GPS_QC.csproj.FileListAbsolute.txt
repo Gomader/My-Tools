@@ -1,0 +1,235 @@
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.Cache
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.Cache
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.Cache
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v3\GPS_QC\GPS_QC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\lee\바탕 화면\GPS_QC\v2\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v2\GPS_QC\GPS_QC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.Cache
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\ZedGraph.pdb
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+C:\Documents and Settings\yklee\바탕 화면\v3\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\ZedGraph.pdb
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.Cache
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.ParameterForm.resources
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\GPS_QC.ReportForm.resources
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\lee\Desktop\GPS_QC\GPS_QC\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\ZedGraph.pdb
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.ParameterForm.resources
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.ReportForm.resources
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.Cache
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\yklee\바탕 화면\GPS_QC\GPS_QC\obj\Debug\RdlCompile.compiled
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.AssemblyReference.cache
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.MainForm.resources
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.ParameterForm.resources
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.PlotForm.resources
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.Properties.Resources.resources
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.ReportForm.resources
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.GenerateResource.cache
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.CoreCompileInputs.cache
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.exe
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.pdb
+E:\qc\GPS_QC\GPS_QC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe.config
+E:\qc\GPS_QC\GPS_QC\bin\Debug\GPS_QC.exe
+E:\qc\GPS_QC\GPS_QC\bin\Debug\GPS_QC.pdb
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ZedGraph.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\EnvDTE.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\stdole.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\Microsoft.MSXML.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ZedGraph.pdb
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\hu\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\sk\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\sv\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\tr\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\qc\GPS_QC\GPS_QC\obj\Debug\GPS_QC.csproj.CopyComplete
