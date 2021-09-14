@@ -5,6 +5,13 @@ from xlrd import open_workbook
 from wx import App,Dialog,EVT_BUTTON,NewIdRef,EVT_CLOSE,TextCtrl,TE_PROCESS_ENTER,Button,MessageBox,OK
 from wx.lib.filebrowsebutton import FileBrowseButtonWithHistory
 from sys import exit
+from os import path
+
+def writeTemplate(index):
+    d = path.dirname(__file__)
+    file = open("{}/Venus.log".format(d),"w")
+    file.writelines(str(index))
+    file.close()
 
 class MyApp(Dialog):
 
@@ -43,7 +50,6 @@ class MyApp(Dialog):
         try:
             self.sheet = open_workbook(self.filePath.GetValue()).sheets()[0]
             self.row = self.sheet.nrows
-            self.SetTitle(self.title+" - {}/{}".format(self.index+1,self.row))
             try:
                 self.app = Application(backend="uia").connect(title_re=windowsName)
                 self.app[windowsName].maximize()
@@ -57,10 +63,11 @@ class MyApp(Dialog):
                         self.app[windowsName]["Dialog2"].Button0.click()
                         self.index += 1
                         send_keys('^s')
+                        writeTemplate(self.index+1)
                     except:
-                        self.SetTitle(self.title+" - {}/{}".format(self.index+1,self.row))
                         self.start.SetLabel("CONTINUE")
                         MessageBox("Finished {}/{}.\nYou can continue.".format(self.index+1,self.row),"Error",OK)
+                        writeTemplate(self.index)
                         break
                 if self.index == self.row:
                     MessageBox("All Data inputed!","Finish",OK)
